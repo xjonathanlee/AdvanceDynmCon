@@ -1,0 +1,2 @@
+# AdvanceDynmCon
+ADC LogansHeroes
